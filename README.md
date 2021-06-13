@@ -1,6 +1,6 @@
 # Operating Systems
 
-This repository is a container for the projects I developed during CS342 - Operating System Concepts.
+This repository is a container for the projects I developed during CS342 - Operating System Concepts
 
 * [Intercepting Shell Program](https://github.com/maryamShahid/intercepting-shell-program): An intercepting shell program which executes user commands. For piped instructions, POSIX pipes are used.
 * [Multithreaded Scheduling](https://github.com/maryamShahid/multi-threaded-scheduling): This project focuses on multithreaded scheduling of processes using FCFS, SJF, PRIO and VRUNTIME algorithms. This project allowed me to practice deadlock preventation, synchronization and the theory of CPU scheduling.
